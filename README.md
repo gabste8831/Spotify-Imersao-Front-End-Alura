@@ -15,6 +15,10 @@ Este projeto foi desenvolvido durante a Imersão Front-End da Alura e consiste e
 - Listagem de playlists dinâmicas.
 - Integração com API para exibir artistas.
 
+## Captura de Tela
+![image](https://github.com/user-attachments/assets/6ff0ec50-b034-4577-85f5-640a7169279d)
+
+
 ## Próximos Passos
 
 - Melhorar a interatividade com JavaScript.
